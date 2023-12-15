@@ -4,5 +4,8 @@
 # scikit-learn
 # catboost
 # -e .
-dill
+# dill
+# xgboost
+catboost
+
 
