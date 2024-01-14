@@ -1,11 +1,11 @@
-# pandas
-# numpy 
-# seaborn 
-# scikit-learn
-# catboost
+pandas
+numpy 
+seaborn 
+scikit-learn
+catboost
 # -e .
-# dill
-# xgboost
-# catboost
+dill
+xgboost
+catboost
 flask
 
